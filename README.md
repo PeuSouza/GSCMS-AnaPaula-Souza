@@ -1,6 +1,6 @@
 # GSCMS- 2022-1 
 
-Repositório utilizado na cadeira de gerencia de configuração e Mudança de Software 
+Repositório da disciplina de GCMS do IFPE-Recife para o semestre 2022.1. 
 
 ## Colaboradores
 Coloque aqui seu nome abaixo se você é um dos colaboradores do repósitorio:
