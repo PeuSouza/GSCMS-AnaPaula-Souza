@@ -7,6 +7,15 @@ Coloque aqui seu nome abaixo se você é um dos colaboradores do repósitorio:
 * Ana Paula Souza( dona, @PeuSouza)
 * Ramide Dantas (@ramidedantas)
 
+
+
+
+
+
+
+
+
+checkList
 -[ ] Instalar Git localmente
 
 -[ ] Criar projeto local
